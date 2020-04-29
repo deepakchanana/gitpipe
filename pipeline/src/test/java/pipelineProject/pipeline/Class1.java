@@ -8,5 +8,6 @@ public class Class1 {
 	public void tc()
 	{
 		System.out.println("I am testcase");
+		System.out.println("changes done");
 	}
 }
