@@ -9,7 +9,7 @@ public class Class1 {
 	{
 		System.out.println("I am testcase");
 		System.out.println("changes done");
-		System.out.println("again changes");
+		
 		
 	}
 }
